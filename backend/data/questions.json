@@ -1,0 +1,177 @@
+[
+  {
+    "id": "q1",
+    "content": "2 + 3 bằng bao nhiêu?",
+    "answers": ["4", "5", "6", "7"],
+    "correctAnswer": "5",
+    "difficulty": 1
+  },
+  {
+    "id": "q2",
+    "content": "Mặt trời có màu gì?",
+    "answers": ["Đỏ", "Xanh dương", "Vàng", "Xanh lá"],
+    "correctAnswer": "Vàng",
+    "difficulty": 1
+  },
+  {
+    "id": "q3",
+    "content": "Con chó có bao nhiêu chân?",
+    "answers": ["2", "4", "6", "8"],
+    "correctAnswer": "4",
+    "difficulty": 1
+  },
+  {
+    "id": "q4",
+    "content": "10 - 4 bằng bao nhiêu?",
+    "answers": ["5", "6", "7", "8"],
+    "correctAnswer": "6",
+    "difficulty": 1
+  },
+  {
+    "id": "q5",
+    "content": "Hình nào có 3 cạnh?",
+    "answers": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác",
+    "difficulty": 1
+  },
+  {
+    "id": "q6",
+    "content": "5 x 6 bằng bao nhiêu?",
+    "answers": ["24", "28", "30", "36"],
+    "correctAnswer": "30",
+    "difficulty": 2
+  },
+  {
+    "id": "q7",
+    "content": "Một ngày có bao nhiêu giờ?",
+    "answers": ["12", "20", "24", "48"],
+    "correctAnswer": "24",
+    "difficulty": 2
+  },
+  {
+    "id": "q8",
+    "content": "Thực vật cần gì nhất để tự tạo thức ăn?",
+    "answers": ["Chỉ cần nước", "Chỉ cần đất", "Ánh sáng mặt trời", "Gió"],
+    "correctAnswer": "Ánh sáng mặt trời",
+    "difficulty": 2
+  },
+  {
+    "id": "q9",
+    "content": "36 chia cho 4 bằng bao nhiêu?",
+    "answers": ["7", "8", "9", "10"],
+    "correctAnswer": "9",
+    "difficulty": 2
+  },
+  {
+    "id": "q10",
+    "content": "Bảng chữ cái tiếng Việt có bao nhiêu nguyên âm đơn?",
+    "answers": ["9", "11", "12", "14"],
+    "correctAnswer": "11",
+    "difficulty": 2
+  },
+  {
+    "id": "q11",
+    "content": "15% của 100 là bao nhiêu?",
+    "answers": ["10", "15", "20", "25"],
+    "correctAnswer": "15",
+    "difficulty": 3
+  },
+  {
+    "id": "q12",
+    "content": "Hành tinh lớn nhất trong hệ Mặt Trời là hành tinh nào?",
+    "answers": ["Sao Thổ", "Sao Thiên Vương", "Sao Hải Vương", "Sao Mộc"],
+    "correctAnswer": "Sao Mộc",
+    "difficulty": 3
+  },
+  {
+    "id": "q13",
+    "content": "12 x 12 bằng bao nhiêu?",
+    "answers": ["124", "132", "144", "148"],
+    "correctAnswer": "144",
+    "difficulty": 3
+  },
+  {
+    "id": "q14",
+    "content": "Con người cần hít thở khí gì để sống?",
+    "answers": ["Nitơ", "Cacbon Dioxit", "Oxy", "Hydro"],
+    "correctAnswer": "Oxy",
+    "difficulty": 3
+  },
+  {
+    "id": "q15",
+    "content": "1/2 + 1/4 bằng bao nhiêu?",
+    "answers": ["1/2", "2/6", "3/4", "1"],
+    "correctAnswer": "3/4",
+    "difficulty": 3
+  },
+  {
+    "id": "q16",
+    "content": "144 chia cho 12 bằng bao nhiêu?",
+    "answers": ["10", "11", "12", "13"],
+    "correctAnswer": "12",
+    "difficulty": 4
+  },
+  {
+    "id": "q17",
+    "content": "25% của 80 là bao nhiêu?",
+    "answers": ["15", "20", "25", "30"],
+    "correctAnswer": "20",
+    "difficulty": 4
+  },
+  {
+    "id": "q18",
+    "content": "Hành tinh nào được gọi là Hành Tinh Đỏ?",
+    "answers": ["Sao Kim", "Sao Hỏa", "Sao Mộc", "Sao Thổ"],
+    "correctAnswer": "Sao Hỏa",
+    "difficulty": 4
+  },
+  {
+    "id": "q19",
+    "content": "2 mũ 5 (2^5) bằng bao nhiêu?",
+    "answers": ["16", "25", "32", "64"],
+    "correctAnswer": "32",
+    "difficulty": 4
+  },
+  {
+    "id": "q20",
+    "content": "Chu vi của hình vuông có cạnh dài 7 là bao nhiêu?",
+    "answers": ["21", "28", "35", "49"],
+    "correctAnswer": "28",
+    "difficulty": 4
+  },
+  {
+    "id": "q21",
+    "content": "Căn bậc hai của 144 là bao nhiêu?",
+    "answers": ["11", "12", "13", "14"],
+    "correctAnswer": "12",
+    "difficulty": 5
+  },
+  {
+    "id": "q22",
+    "content": "Hình chữ nhật có chiều dài 12 và chiều rộng 8. Diện tích của nó là bao nhiêu?",
+    "answers": ["80", "88", "96", "104"],
+    "correctAnswer": "96",
+    "difficulty": 5
+  },
+  {
+    "id": "q23",
+    "content": "Bội số chung nhỏ nhất (BCNN) của 4 và 6 là bao nhiêu?",
+    "answers": ["8", "12", "16", "24"],
+    "correctAnswer": "12",
+    "difficulty": 5
+  },
+  {
+    "id": "q24",
+    "content": "Có bao nhiêu số nguyên tố trong khoảng từ 1 đến 20?",
+    "answers": ["6", "7", "8", "9"],
+    "correctAnswer": "8",
+    "difficulty": 5
+  },
+  {
+    "id": "q25",
+    "content": "Một chuyến tàu đi với vận tốc 60 km/h trong 2 giờ. Tàu đi được bao nhiêu km?",
+    "answers": ["90 km", "100 km", "120 km", "150 km"],
+    "correctAnswer": "120 km",
+    "difficulty": 5
+  }
+]
