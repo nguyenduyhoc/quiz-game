@@ -1,0 +1,8 @@
+{
+  "name": "quiz-game",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm install --prefix backend",
+    "start": "node backend/app.js"
+  }
+}
