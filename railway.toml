@@ -1,6 +1,6 @@
 [build]
-buildCommand = "cd backend && npm install"
+buildCommand = "npm install --prefix backend"
 
 [deploy]
-startCommand = "cd backend && npm start"
+startCommand = "node backend/app.js"
 restartPolicyType = "ON_FAILURE"
